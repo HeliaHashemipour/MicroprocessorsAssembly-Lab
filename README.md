@@ -1,2 +1,5 @@
 ## Microprocessors Assembly Lab
-Microprocessors Assembly LAB course - Autumn 2021
+> Instructor: [Dr. H. Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en)
+
+> Semester: Fall 2021
+
